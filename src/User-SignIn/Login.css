@@ -1,0 +1,31 @@
+Body {
+  display: flex;
+  height: 100vh;
+}
+
+.login {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  border: 2px solid black;
+  width: 250px;
+  position: relative;
+  left: 40%;
+  right: 50%;
+  background-color: darkgrey;
+  margin-top: 50px;
+  height: 250px;
+  border-radius: 12px;
+}
+
+.login__form {
+  margin: 5px;
+}
+
+.input {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}

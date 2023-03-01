@@ -1,0 +1,20 @@
+.checkout {
+  display: flex;
+  position: absolute;
+}
+
+.checkout_product {
+  display: flex;
+}
+
+.checkout__left img {
+  width: 800px;
+  position: relative;
+  height: 100px;
+  margin: 10px;
+  border: 2px solid black;
+}
+
+.checkout__left h1 {
+  margin-left: 10px;
+}
